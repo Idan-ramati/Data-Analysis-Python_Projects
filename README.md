@@ -1,4 +1,4 @@
-# Python_-Projects
+# Python_Projects
 Repository for my data analysis projects using Python and Jupyter Notebooks
 
 - project1: Exploratory Data Analysis using jupyter notebook. 
